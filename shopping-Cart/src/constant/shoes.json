@@ -1,0 +1,380 @@
+[
+  {
+    "id": 1,
+    "brand": "Nike",
+    "model": "Air Max",
+    "price": 129.99,
+    "description": "Premium running shoes with Air Max cushioning.",
+    "category": "running",
+    "image": "https://source.unsplash.com/400x300/?shoes",
+    "rating": {
+        "rate": 4.8,
+        "count": 200
+    }
+},
+{
+    "id": 2,
+    "brand": "Adidas",
+    "model": "Superstar",
+    "price": 89.99,
+    "description": "Iconic casual sneakers with classic shell toe.",
+    "category": "casual",
+    "image": "https://source.unsplash.com/400x300/?sneakers",
+    "rating": {
+        "rate": 4.5,
+        "count": 150
+    }
+},
+{
+    "id": 3,
+    "brand": "Puma",
+    "model": "RS-X",
+    "price": 109.99,
+    "description": "Modern and stylish athletic shoes with RS cushioning.",
+    "category": "athletic",
+    "image": "https://source.unsplash.com/400x300/?athletic-shoes",
+    "rating": {
+        "rate": 4.3,
+        "count": 180
+    }
+},
+{
+    "id": 4,
+    "brand": "Reebok",
+    "model": "Classic Leather",
+    "price": 79.99,
+    "description": "Timeless and comfortable sneakers with a classic leather design.",
+    "category": "casual",
+    "image": "https://source.unsplash.com/400x300/?leather-shoes",
+    "rating": {
+        "rate": 4.2,
+        "count": 120
+    }
+},
+{
+    "id": 5,
+    "brand": "New Balance",
+    "model": "Fresh Foam",
+    "price": 94.99,
+    "description": "Innovative running shoes featuring Fresh Foam technology for superior comfort.",
+    "category": "running",
+    "image": "https://source.unsplash.com/400x300/?running-shoes",
+    "rating": {
+        "rate": 4.6,
+        "count": 220
+    }
+},
+{
+  "id": 6,
+  "brand": "Vans",
+  "model": "Old Skool",
+  "price": 69.99,
+  "description": "Classic skateboarding shoes with a timeless Old Skool design.",
+  "category": "skate",
+  "image": "https://source.unsplash.com/400x300/?skate-shoes",
+  "rating": {
+    "rate": 4.4,
+    "count": 190
+  }
+},
+{
+  "id": 7,
+  "brand": "Converse",
+  "model": "Chuck Taylor All Star",
+  "price": 59.99,
+  "description": "Iconic high-top sneakers for casual and athletic wear.",
+  "category": "casual",
+  "image": "https://source.unsplash.com/400x300/?chuck-taylor",
+  "rating": {
+    "rate": 4.7,
+    "count": 170
+  }
+},
+{
+  "id": 8,
+  "brand": "ASICS",
+  "model": "Gel-Kayano",
+  "price": 139.99,
+  "description": "High-performance running shoes with Gel-Kayano technology.",
+  "category": "running",
+  "image": "https://source.unsplash.com/400x300/?asics-shoes",
+  "rating": {
+    "rate": 4.9,
+    "count": 210
+  }
+},
+{
+  "id": 9,
+  "brand": "Under Armour",
+  "model": "UA HOVR Phantom",
+  "price": 119.99,
+  "description": "Connected running shoes with UA HOVR technology for a zero-gravity feel.",
+  "category": "running",
+  "image": "https://source.unsplash.com/400x300/?under-armour-shoes",
+  "rating": {
+    "rate": 4.5,
+    "count": 160
+  }
+},
+{
+  "id": 10,
+  "brand": "Skechers",
+  "model": "Go Walk",
+  "price": 54.99,
+  "description": "Comfortable slip-on walking shoes with Skechers Goga Mat technology.",
+  "category": "walking",
+  "image": "https://source.unsplash.com/400x300/?walking-shoes",
+  "rating": {
+    "rate": 4.3,
+    "count": 150
+  }
+},
+{
+  "id": 11,
+  "brand": "Fila",
+  "model": "Disruptor",
+  "price": 79.99,
+  "description": "Chunky sneakers with a bold and disruptive design.",
+  "category": "casual",
+  "image": "https://source.unsplash.com/400x300/?fila-shoes",
+  "rating": {
+    "rate": 4.1,
+    "count": 130
+  }
+},
+{
+  "id": 12,
+  "brand": "Merrell",
+  "model": "Moab 2",
+  "price": 109.99,
+  "description": "Durable hiking shoes with Vibram traction for outdoor adventures.",
+  "category": "hiking",
+  "image": "https://source.unsplash.com/400x300/?hiking-shoes",
+  "rating": {
+    "rate": 4.7,
+    "count": 180
+  }
+},
+{
+  "id": 13,
+  "brand": "Salomon",
+  "model": "Speedcross",
+  "price": 129.99,
+  "description": "High-performance trail running shoes with aggressive grip.",
+  "category": "running",
+  "image": "https://source.unsplash.com/400x300/?trail-running-shoes",
+  "rating": {
+    "rate": 4.6,
+    "count": 200
+  }
+},
+{
+  "id": 14,
+  "brand": "Brooks",
+  "model": "Ghost",
+  "price": 119.99,
+  "description": "Neutral running shoes with a smooth and comfortable ride.",
+  "category": "running",
+  "image": "https://source.unsplash.com/400x300/?brooks-shoes",
+  "rating": {
+    "rate": 4.8,
+    "count": 210
+  }
+},
+{
+  "id": 15,
+  "brand": "Mizuno",
+  "model": "Wave Rider",
+  "price": 99.99,
+  "description": "Stable and responsive running shoes with Wave Plate technology.",
+  "category": "running",
+  "image": "https://source.unsplash.com/400x300/?mizuno-shoes",
+  "rating": {
+    "rate": 4.4,
+    "count": 160
+  }
+},
+{
+  "id": 16,
+  "brand": "Hoka One One",
+  "model": "Clifton",
+  "price": 129.99,
+  "description": "Maximalist running shoes with excellent cushioning.",
+  "category": "running",
+  "image": "https://source.unsplash.com/400x300/?hoka-one-one",
+  "rating": {
+    "rate": 4.9,
+    "count": 220
+  }
+},
+{
+  "id": 17,
+  "brand": "Timberland",
+  "model": "6-Inch Premium Boot",
+  "price": 179.99,
+  "description": "Iconic waterproof boots with premium leather construction.",
+  "category": "boots",
+  "image": "https://source.unsplash.com/400x300/?timberland-boots",
+  "rating": {
+    "rate": 4.5,
+    "count": 190
+  }
+},
+{
+  "id": 18,
+  "brand": "Keen",
+  "model": "Newport H2",
+  "price": 89.99,
+  "description": "Versatile water sandals with a protective toe cap.",
+  "category": "sandals",
+  "image": "https://source.unsplash.com/400x300/?keen-sandals",
+  "rating": {
+    "rate": 4.3,
+    "count": 150
+  }
+},
+{
+  "id": 19,
+  "brand": "Vibram FiveFingers",
+  "model": "V-Run",
+  "price": 129.99,
+  "description": "Barefoot-style running shoes for a natural feel.",
+  "category": "running",
+  "image": "https://source.unsplash.com/400x300/?vibram-shoes",
+  "rating": {
+    "rate": 4.2,
+    "count": 120
+  }
+},
+{
+  "id": 20,
+  "brand": "Under Armour",
+  "model": "UA Charged Assert 8",
+  "price": 79.99,
+  "description": "Versatile and comfortable athletic shoes for various activities.",
+  "category": "athletic",
+  "image": "https://source.unsplash.com/400x300/?ua-assert-shoes",
+  "rating": {
+    "rate": 4.6,
+    "count": 170
+  }
+},
+{
+  "id": 21,
+  "brand": "Columbia",
+  "model": "Newton Ridge Plus II",
+  "price": 99.99,
+  "description": "Sturdy hiking boots with waterproof construction.",
+  "category": "hiking",
+  "image": "https://source.unsplash.com/400x300/?columbia-boots",
+  "rating": {
+    "rate": 4.4,
+    "count": 140
+  }
+},
+{
+  "id": 22,
+  "brand": "Saucony",
+  "model": "Kinvara",
+  "price": 109.99,
+  "description": "Lightweight and responsive running shoes for a natural stride.",
+  "category": "running",
+  "image": "https://source.unsplash.com/400x300/?saucony-shoes",
+  "rating": {
+    "rate": 4.7,
+    "count": 160
+  }
+},
+{
+  "id": 23,
+  "brand": "Converse",
+  "model": "One Star",
+  "price": 64.99,
+  "description": "Classic low-top sneakers with a distinctive star logo.",
+  "category": "casual",
+  "image": "https://source.unsplash.com/400x300/?one-star-shoes",
+  "rating": {
+    "rate": 4.2,
+    "count": 130
+  }
+},
+{
+  "id": 24,
+  "brand": "Nike",
+  "model": "React Element",
+  "price": 129.99,
+  "description": "Modern and futuristic sneakers with React cushioning technology.",
+  "category": "casual",
+  "image": "https://source.unsplash.com/400x300/?react-element",
+  "rating": {
+    "rate": 4.8,
+    "count": 190
+  }
+},
+{
+  "id": 25,
+  "brand": "ASICS",
+  "model": "GT-2000",
+  "price": 119.99,
+  "description": "Stability running shoes with ASICS GEL technology.",
+  "category": "running",
+  "image": "https://source.unsplash.com/400x300/?gt-2000",
+  "rating": {
+    "rate": 4.5,
+    "count": 150
+  }
+},
+{
+  "id": 26,
+  "brand": "Reebok",
+  "model": "Nano X",
+  "price": 99.99,
+  "description": "Cross-training shoes with a durable and supportive design.",
+  "category": "cross-training",
+  "image": "https://source.unsplash.com/400x300/?nano-x-shoes",
+  "rating": {
+    "rate": 4.3,
+    "count": 120
+  }
+},
+{
+  "id": 27,
+  "brand": "New Balance",
+  "model": "990v5",
+  "price": 169.99,
+  "description": "Premium running shoes with a heritage-inspired design.",
+  "category": "running",
+  "image": "https://source.unsplash.com/400x300/?990v5",
+  "rating": {
+    "rate": 4.9,
+    "count": 210
+  }
+},
+{
+  "id": 28,
+  "brand": "Adidas",
+  "model": "Ultra Boost",
+  "price": 179.99,
+  "description": "High-performance running shoes with responsive Boost cushioning.",
+  "category": "running",
+  "image": "https://source.unsplash.com/400x300/?ultra-boost",
+  "rating": {
+    "rate": 4.6,
+    "count": 200
+  }
+},
+{
+  "id": 29,
+  "brand": "Puma",
+  "model": "Cali",
+  "price": 89.99,
+  "description": "Fashionable sneakers with a retro-inspired Cali design.",
+  "category": "casual",
+  "image": "https://source.unsplash.com/400x300/?puma-cali",
+  "rating": {
+    "rate": 4.4,
+    "count": 170
+  }
+}
+ 
+]

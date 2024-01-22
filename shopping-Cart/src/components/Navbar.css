@@ -1,0 +1,47 @@
+
+
+.custom-navbar {
+  background-color: #343a40; /* Darker background color */
+  padding: 10px 0; /* Add padding to the top and bottom */
+}
+
+/* Navbar.css */
+
+/* Navbar.css */
+
+.brand-logo {
+  max-height: 40px;
+  margin-right: 10px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  background-color: #343a40; /* Match the navigation bar background color */
+}
+
+/* Navbar.css */
+.navbar-toggler-icon {
+  background-color: rgb(233, 228, 223);
+ 
+  color: white; /* Set the color to white */
+}
+
+
+.custom-toggler {
+  border-color: #fff; /* Customize the border color of the toggler icon */
+}
+
+.nav-link {
+  color: #fff; /* Text color for nav links */
+}
+
+.nav-link:hover {
+  color: orangered; /* Hover color for nav links */
+}
+
+.cart-link {
+  color: #fff; /* Text color for cart link */
+  font-weight: bold; /* Add bold font weight */
+}
+
+.cart-link:hover {
+  color: orangered; /* Hover color for cart link */
+}

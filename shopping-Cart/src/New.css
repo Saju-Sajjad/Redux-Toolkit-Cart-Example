@@ -1,0 +1,78 @@
+/* App.css (or your preferred CSS file) */
+
+/* Reset some default margin and padding */
+body,
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+/* Style for the navbar */
+.header {
+  background-color: #343a40; /* Dark background color */
+  padding: 15px 0;
+}
+
+.header img {
+  max-width: 50px; /* Adjust the max-width of your logo */
+  margin-right: 10px;
+}
+
+.header span {
+  color: #fff; /* Text color for the brand */
+}
+
+/* Style for the hero section */
+.hero-section {
+  background-color: #f8f9fa; /* Light background color */
+  padding: 50px 0;
+}
+
+.hero-section h3,
+.hero-section strong,
+.hero-section p {
+  color: #212529; /* Text color for the hero section */
+}
+
+.hero-section Button {
+  background-color: #343a40; /* Dark button background color */
+  border: none;
+  color: #fff; /* Text color for the button */
+}
+
+/* Style for the works section */
+.work-section {
+  background-color: #f8f9fa; /* Light background color */
+  padding: 50px 0;
+}
+
+.work-items {
+  margin-top: 30px;
+}
+
+.work-item img {
+  width: 100%; /* Make the images fill the container */
+  border: 1px solid #dee2e6; /* Add a border around the images */
+  border-radius: 5px; /* Add some border-radius */
+  margin-bottom: 15px; /* Space between images */
+}
+
+/* Add similar styles for other sections (Service, About Me, Contact Form, Footer) */
+
+/* Style for the footer */
+.footer {
+  background-color: #343a40; /* Dark background color */
+  color: #fff; /* Text color for the footer */
+  padding: 15px 0;
+  text-align: center;
+}
+
+/* Responsive styles - adjust as needed */
+@media (max-width: 767px) {
+  /* Add responsive styles here */
+}
+
+/* You can continue to add more specific styles based on your design requirements */

@@ -1,0 +1,30 @@
+.dashboard-container {
+    margin-top: 30px;
+  }
+  
+  .dashboard-header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .filter-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .filter-input {
+    flex: 1;
+    margin-right: 10px;
+  }
+  
+  .clear-filter-button {
+    background-color: #dc3545; /* Red color for button */
+    border-color: #dc3545;
+    color: #fff;
+  }
+  
+  .clear-filter-button:hover {
+    background-color: #c82333;
+    border-color: #c82333;
+  }
